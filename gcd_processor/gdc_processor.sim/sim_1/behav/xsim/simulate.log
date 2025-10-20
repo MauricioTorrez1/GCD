@@ -1,0 +1,25 @@
+Time resolution is 1 ps
+Iniciando simulación del Procesador GCD...
+Tiempo=0 | clr=1 go=0 | xin=  0 yin=  0 | gcd=  0 | Estado CU=start | x=  0 y=  0 | eq=1 lt=0
+Tiempo=20000 | clr=0 go=0 | xin=  0 yin=  0 | gcd=  0 | Estado CU=start | x=  0 y=  0 | eq=1 lt=0
+Tiempo=30000 | clr=0 go=1 | xin=210 yin=255 | gcd=  0 | Estado CU=start | x=  0 y=  0 | eq=1 lt=0
+Tiempo=35000 | clr=0 go=1 | xin=210 yin=255 | gcd=  0 | Estado CU=input_state | x=210 y=255 | eq=0 lt=1
+Tiempo=40000 | clr=0 go=0 | xin=210 yin=255 | gcd=  0 | Estado CU=input_state | x=210 y=255 | eq=0 lt=1
+Tiempo=65000 | clr=0 go=0 | xin=210 yin=255 | gcd=  0 | Estado CU=sub_y | x=210 y= 45 | eq=0 lt=0
+Tiempo=95000 | clr=0 go=0 | xin=210 yin=255 | gcd=  0 | Estado CU=sub_x | x=165 y= 45 | eq=0 lt=0
+Tiempo=125000 | clr=0 go=0 | xin=210 yin=255 | gcd=  0 | Estado CU=sub_x | x=120 y= 45 | eq=0 lt=0
+Tiempo=155000 | clr=0 go=0 | xin=210 yin=255 | gcd=  0 | Estado CU=sub_x | x= 75 y= 45 | eq=0 lt=0
+Tiempo=185000 | clr=0 go=0 | xin=210 yin=255 | gcd=  0 | Estado CU=sub_x | x= 30 y= 45 | eq=0 lt=1
+Tiempo=215000 | clr=0 go=0 | xin=210 yin=255 | gcd=  0 | Estado CU=sub_y | x= 30 y= 15 | eq=0 lt=0
+Tiempo=245000 | clr=0 go=0 | xin=210 yin=255 | gcd=  0 | Estado CU=sub_x | x= 15 y= 15 | eq=1 lt=0
+Tiempo=265000 | clr=0 go=0 | xin=210 yin=255 | gcd= 15 | Estado CU=done | x= 15 y= 15 | eq=1 lt=0
+Tiempo=440000 | clr=1 go=0 | xin=210 yin=255 | gcd=  0 | Estado CU=start | x=  0 y=  0 | eq=1 lt=0
+Tiempo=460000 | clr=0 go=0 | xin=210 yin=255 | gcd=  0 | Estado CU=start | x=  0 y=  0 | eq=1 lt=0
+Tiempo=470000 | clr=0 go=1 | xin= 18 yin= 12 | gcd=  0 | Estado CU=start | x=  0 y=  0 | eq=1 lt=0
+Tiempo=475000 | clr=0 go=1 | xin= 18 yin= 12 | gcd=  0 | Estado CU=input_state | x= 18 y= 12 | eq=0 lt=0
+Tiempo=480000 | clr=0 go=0 | xin= 18 yin= 12 | gcd=  0 | Estado CU=input_state | x= 18 y= 12 | eq=0 lt=0
+Tiempo=505000 | clr=0 go=0 | xin= 18 yin= 12 | gcd=  0 | Estado CU=sub_x | x=  6 y= 12 | eq=0 lt=1
+Tiempo=535000 | clr=0 go=0 | xin= 18 yin= 12 | gcd=  0 | Estado CU=sub_y | x=  6 y=  6 | eq=1 lt=0
+Tiempo=555000 | clr=0 go=0 | xin= 18 yin= 12 | gcd=  6 | Estado CU=done | x=  6 y=  6 | eq=1 lt=0
+Simulación del Procesador GCD completada.
+$finish called at time : 680 ns : File "C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/gdc_processor/gdc_processor.srcs/sim_1/new/gcd_processor_tb.sv" Line 83
