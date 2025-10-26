@@ -1,0 +1,22 @@
+# Vivado project files
+*.lpr
+*.xpr
+*.log
+*.jou
+
+# Vivado project folders
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.srcs/sources_1/bd/
+
+# Vivado backup and intermediate files
+*_incl.svh
+*_precomp.sv
+*_srl.sv
+webtalk*.html
+webtalk*.xml
+vivado*.str
+hdl_dependencies/

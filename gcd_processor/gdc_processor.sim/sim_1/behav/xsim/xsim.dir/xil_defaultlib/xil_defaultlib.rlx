@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/control_unit/control_unit.srcs/sources_1/new/control_unit.sv,1760916854,systemVerilog,,C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/datapath/datapath.srcs/sources_1/new/datapath.sv,,control_unit,,uvm,../../../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/datapath/datapath.srcs/sources_1/new/datapath.sv,1760915926,systemVerilog,,C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/gdc_processor/gdc_processor.srcs/sources_1/new/gcd_processor.sv,,datapath,,uvm,../../../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/gdc_processor/gdc_processor.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/gdc_processor/gdc_processor.srcs/sim_1/new/gcd_processor_tb.sv,1760921323,systemVerilog,,,,gcd_processor_tb,,uvm,../../../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/gdc_processor/gdc_processor.srcs/sources_1/new/gcd_processor.sv,1760920830,systemVerilog,,C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/gdc_processor/gdc_processor.srcs/sim_1/new/gcd_processor_tb.sv,,gcd_processor,,uvm,../../../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
